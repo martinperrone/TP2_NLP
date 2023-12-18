@@ -1,21 +1,16 @@
 ![feceia1](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/1e6bd2ee-df8f-4f79-93fd-6d11caba36da)
-![Banner-ML](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/561b89d0-0b40-4afb-8417-85be0f42c224)
+![Banner NLP-1](https://github.com/martinperrone/TP2_NLP/assets/109038969/92f59455-471f-4319-abd3-782f90d36df1)
 
 # Tecnicatura en Inteligencia Artificial 
 
-## Trabajo Práctico: Predicción de lluvia en Australia.
+## Trabajo Práctico 2
 
-Estudiantes:
-
-* Alomar, Francisco J.
+Estudiante:
 * Perrone, Martín L.
-
-El objetivo del trabajo práctico es utilizar los datos proporcionados en el dataset de nombre weatherAUS.csv, que contiene información climática de Australia de los últimos diez años, para hacer una app que predice si llueve y la cantidad de lluvia.
-Realizamos el análisis y tratamiento de los datos, selección de características para la predicción y probamos diferentes modelos de aprendizaje automático (regresión lineal y logística, regulación, redes neuronales) para obtener el de mejor funcionamiento. Todo esto lo hicimos en una notebook con Google Colaboratory, de nombre ***_tp_aprendizaje_entrega_final.ipynb_***, del que exportamos dos pipelines con los modelos de clasificación y regresión de redes neuronales entrenados en los archivos ***_lluvia_australia_clas_prediction.pkl_*** y ***_lluvia_australia_reg_prediction.pkl_*** respectivamente. 
-Luego generamos la app de predicción de lluvia utilizando la librería streamlit de pyhton, que importa los pipelines generados para realizar las predicciones con los datos nuevos.
+* Legajo: P-5197/7
 
 
-<h1>🌧️ App de predicción de lluvia en Australia 🌧️</h1><br>
+<h1>⚽ 🏀 🎾 Chatbot - Reglamentos de Fútbol, Basquet y Tenis ⚽ 🏀 🎾</h1><br>
 
 
 <table>
