@@ -67,5 +67,4 @@ Estudiante:
 4. Consultar al chatbot sobre reglamento de alguno de los tres deportes (fútbol, basquet, tenis)
 
 
-![captura de pantalla(1)](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/0ab89593-dd4b-486b-96c1-de653e9106cc)
-![captura de pantalla(2)](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/c9c18fbd-176c-48e3-8be1-1b45dce2f4c1)
+![cap_pant](https://github.com/martinperrone/TP2_NLP/assets/109038969/04a1f976-26ab-470f-b42e-cf6911b7617d)
