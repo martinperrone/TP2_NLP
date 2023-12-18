@@ -54,17 +54,17 @@ Estudiante:
   
 ### Pasos a seguir:
 
-1. URL https://github.com/martinperrone/TP_aprendizaje_automatico
+1. URL https://github.com/martinperrone/TP2_NLP
 
 2. Descargar los archivos:
-   - app.py
-   - clases_y_funciones.py
-   - lluvia_australia_clas_prediction.pkl
-   - lluvia_australia_reg_prediction.pkl
+   - tp_final_NLP.ipynb
+   - 2023-rules-of-tennis-spanish.pdf
+   - Futbol_ fifa.pdf
+   - Reglas Oficiales de Baloncesto FIBA 2022_V2.pdf
 
-3. Ejecutar por consola la app con el siguiente comando: python.exe -m streamlit run app.py
+3. Ejecutar en una notebook el archivo tp_final_NLP.ipynb
 
-4. Elegir los valores de las features y hacer clik en Submit:
+4. Consultar al chatbot sobre reglamento de alguno de los tres deportes (fútbol, basquet, tenis)
 
 
 ![captura de pantalla(1)](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/0ab89593-dd4b-486b-96c1-de653e9106cc)
