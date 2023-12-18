@@ -37,20 +37,20 @@ Estudiante:
 ### Modo de uso:
 #### Software y Librerías necesarios:
   - Python versión 3.10.4 o superior
-  - Streamlit
-  -      pip install streamlit
-  - Joblib
-  -     pip install joblib
-  - Pandas
-  -     pip install pandas
-  - Sklearn
-  -     pip install -U scikit-learn
-  - Numpy
-  -     pip install numpy
-  - Keras
-  -     pip install keras
-  - Tensorflow
-  -     install tensorflow
+  - PyPDF
+  -      pip install PyPDF
+  - Chromadb
+  -     pip install chromadb
+  - llama-index
+  -     pip install llama-index
+  - Sentence-transformers
+  -     pip install sentence-transformers
+  - Langchain
+  -     pip install langchain
+  - Python-decouple
+  -     pip install python-decouple
+  - Gradio
+  -     pip install gradio
   
 ### Pasos a seguir:
 
