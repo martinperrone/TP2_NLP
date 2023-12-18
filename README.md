@@ -15,52 +15,20 @@ Estudiante:
 
 <table>
   <tr>
-    <th>Feature</th>
+    <th>Reglamentos</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><b>Humidity</b></td>
-    <td>Cantidad de humedad del día (0.01 / 100) </td>
+    <td><b>Fútbol</b></td>
+    <td>Reglas de juego FIFA, Autorizadas por el International Football Association Board (IFAB)) </td>
   </tr>
   <tr>
-    <td><b>Pressure</b></td>
-    <td>Valor de la presión del día (100 / 1100)</td>
+    <td><b>Basquet</b></td>
+    <td>Reglas Oficiales de Baloncesto, Traducción de la Federación Española de Baloncesto (FEB)</td>
   </tr>
   <tr>
-    <td><b>Cloud</b></td>
-    <td>Nubosidad del día (0.01 / 10)</td>
-  </tr>
-  <tr>
-    <td><b>MinTemp</b></td>
-    <td>Temperatura mínima del día (-10 / 55)</td>
-  </tr>
-  <tr>
-    <td><b>MaxTemp</b></td>
-    <td>Temperatura máxima del día (-10 / 55)</td>
-  </tr>
-  <tr>
-    <td><b>Rainfall</b></td>
-    <td>Cantidad de lluvia del día (0.01 / 400)</td>
-  </tr>
-  <tr>
-    <td><b>WindSpeed</b></td>
-    <td>Velocidad del viento (0.01 / 200)</td>
-  </tr>
-  <tr>
-    <td><b>Temp</b></td>
-    <td>Temperatura promedio (-10 / 55)</td>
-  </tr>
-  <tr>
-    <td><b>WindDir</b></td>
-    <td>Dirección del viento (N,S,E,O)</td>
-  </tr>
-  <tr>
-    <td><b>Estacion</b></td>
-    <td>Estación del año.</td>
-  </tr>
-  <tr>
-    <td><b>RainToday</b></td>
-    <td>Informar si llovió en el día (Yes / No)</td>
+    <td><b>Tenis</b></td>
+    <td>ITF REGLAS DEL TENIS)</td>
   </tr>
   </tr>
 </table>
