@@ -20,7 +20,7 @@ Estudiante:
   </tr>
   <tr>
     <td><b>Documentos de texto</b></td>
-    <td>Reglas de juego FIFA, Autorizadas por el International Football Association Board (IFAB)), en formato pdf </td>
+    <td>Reglas de juego FIFA, autorizadas por el International Football Association Board (IFAB)), en formato pdf </td>
   </tr>
   <tr>
     <td><b>Datos numéricos en formato tabular</b></td>
@@ -28,7 +28,7 @@ Estudiante:
   </tr>
   <tr>
     <td><b>Base de datos de grafos</b></td>
-    <td>Datos de Wikidata)</td>
+    <td>Datos de Wikidata</td>
   </tr>
   </tr>
 </table>
@@ -51,6 +51,10 @@ Estudiante:
   -     pip install python-decouple
   - Gradio
   -     pip install gradio
+  - SPARQLWrapper
+  -     pip install sparqlwrapper
+  - OpenAI
+  -     pip install langchain-openai
   
 ### Pasos a seguir:
 
@@ -58,13 +62,12 @@ Estudiante:
 
 2. Descargar los archivos:
    - tp_final_NLP.ipynb
-   - 2023-rules-of-tennis-spanish.pdf
+   - mundiales_stats.sql
    - Futbol_ fifa.pdf
-   - Reglas Oficiales de Baloncesto FIBA 2022_V2.pdf
 
 3. Ejecutar en una notebook el archivo tp_final_NLP.ipynb
 
-4. Consultar al chatbot sobre reglamento de alguno de los tres deportes (fútbol, basquet, tenis)
+4. Consultar al chatbot sobre algunas de las categorías (reglamento, mundiales de fútbol, otros)
 
 
 ![cap_pant](https://github.com/martinperrone/TP2_NLP/assets/109038969/04a1f976-26ab-470f-b42e-cf6911b7617d)
