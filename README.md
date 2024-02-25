@@ -10,7 +10,7 @@ Estudiante:
 * Legajo: P-5197/7
 
 
-<h1>⚽ 🏀 🎾 Chatbot - Reglamentos de Fútbol, Basquet y Tenis ⚽ 🏀 🎾</h1><br>
+<h1>⚽ Chatbot - de Fútbol ⚽ </h1><br>
 
 
 <table>
