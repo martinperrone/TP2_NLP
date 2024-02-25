@@ -15,20 +15,20 @@ Estudiante:
 
 <table>
   <tr>
-    <th>Reglamentos</th>
+    <th>Fuente de datos</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><b>Fútbol</b></td>
-    <td>Reglas de juego FIFA, Autorizadas por el International Football Association Board (IFAB)) </td>
+    <td><b>Documentos de texto</b></td>
+    <td>Reglas de juego FIFA, Autorizadas por el International Football Association Board (IFAB)), en formato pdf </td>
   </tr>
   <tr>
-    <td><b>Basquet</b></td>
-    <td>Reglas Oficiales de Baloncesto, Traducción de la Federación Española de Baloncesto (FEB)</td>
+    <td><b>Datos numéricos en formato tabular</b></td>
+    <td>Tabla con estadísticas de mundiales, en fromato sql</td>
   </tr>
   <tr>
-    <td><b>Tenis</b></td>
-    <td>ITF REGLAS DEL TENIS)</td>
+    <td><b>Base de datos de grafos</b></td>
+    <td>Datos de Wikidata)</td>
   </tr>
   </tr>
 </table>
