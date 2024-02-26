@@ -57,7 +57,7 @@ Estudiante:
 1. URL https://github.com/martinperrone/TP2_NLP
 
 2. Descargar los archivos:
-   - tp_final_NLP.ipynb
+   - TP_final_NLP_martin_perrone.ipynb
    - mundiales_stats.sql
    - Futbol_ fifa.pdf
 
