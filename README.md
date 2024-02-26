@@ -70,5 +70,5 @@ Estudiante:
 4. Consultar al chatbot sobre algunas de las categorías (reglamento, mundiales de fútbol, otros)
 
 
-![12](https://github.com/martinperrone/TP2_NLP/assets/109038969/60ec00bf-abdd-4cd9-b0c6-b6bbe9f652d1)
+![Sin título](https://github.com/martinperrone/TP2_NLP/assets/109038969/e4498e3c-b2f4-44c4-9ff6-0100014df13d)
 
